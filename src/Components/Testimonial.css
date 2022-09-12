@@ -1,0 +1,44 @@
+.testi-container{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+
+
+
+
+
+
+}
+
+.testi-img{
+    width: auto;
+    height: 100%;
+}
+
+.testi-text{
+    text-align: center;
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 600;
+    line-height: 1.5rem;
+}
+
+.testi-name{
+    font-size: 1.9rem;
+}
+
+.testi-charge{
+    font-size: 1.5rem;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+.testi-paragraph{
+    font-size: 1.2rem;
+    text-align: center;
+
+}
